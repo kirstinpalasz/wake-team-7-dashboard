@@ -37,7 +37,7 @@ One row per person. The same role may appear on more than one row.
 
 | Name | GitHub username | Role |
 |---|---|---|
-| | | |
+| Christine Liu | christineliu0221-tech | Spec Lead |
 
 ## Side quests
 
