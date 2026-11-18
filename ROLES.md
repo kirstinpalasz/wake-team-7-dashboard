@@ -40,6 +40,7 @@ One row per person. The same role may appear on more than one row.
 | Kirstin | kirstinpalasz | Delivery Lead |
 | Bryce Gilmore | brycegilmore | Pitch Lead |
 | Coby Darer | cobydarer | Design Lead |
+| Christine Liu | christineliu0221-tech | Spec Lead |
 
 ## Side quests
 
