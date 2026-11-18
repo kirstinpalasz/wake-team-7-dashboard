@@ -38,8 +38,8 @@ One row per person. The same role may appear on more than one row.
 | Name | GitHub username | Role |
 |---|---|---|
 | Kirstin | kirstinpalasz | Delivery Lead |
-| Coby Darer | cobydarer | The Artist |
 | Bryce Gilmore | brycegilmore | Pitch Lead |
+| Coby Darer | cobydarer | Design Lead |
 
 ## Side quests
 
