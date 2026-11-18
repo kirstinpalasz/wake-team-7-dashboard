@@ -39,6 +39,7 @@ One row per person. The same role may appear on more than one row.
 |---|---|---|
 | Kirstin | kirstinpalasz | Delivery Lead |
 | Coby Darer | cobydarer | The Artist |
+| Bryce Gilmore | brycegilmore | Pitch Lead |
 
 ## Side quests
 
